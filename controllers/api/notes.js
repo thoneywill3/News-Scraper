@@ -2,8 +2,8 @@
 
 /**
  * 
- * Homework Assignment 18 - All the News That's Fit to Scrape
- * Jarrett Tolman - controllers/api/notes.js
+ * Assignment 14 - All the News That's Fit to Scrape
+ * Thomas Honeywill - controllers/api/notes.js
  * 
  */
 
