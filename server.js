@@ -33,8 +33,8 @@ app
 mongoose.Promise = Promise;
 
 //process.env.MONGODB_URI
-
-const dbURI = process.env.MONGODB_URI || "mongodb://localhost:27017/newsArticles";
+//process.env.MONGODB_URI ||
+const dbURI = "mongodb://localhost:27017/news_Articles";
 
 // Database configuration with mongoose
 mongoose.set('useCreateIndex', true)
